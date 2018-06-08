@@ -1,0 +1,19 @@
+SOLID
+
+PRINCIPIO DE RESPONSABILIDAD UNICA
+Un metodo solo cumple con una funcion
+
+LISKOV
+
+NODE
+Entorno javascript del lado del servidor (motor), desarrollado por google, se dirige por eventos y 
+utiliza un modelo asincrono.
+
+NPM (Node Package Manager)
+Manejador de paquetes de NODE 
+
+Funciones anonimas
+
+
+
+

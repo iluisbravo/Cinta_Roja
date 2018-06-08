@@ -1,0 +1,13 @@
+CLASE 1 JUNIO 
+
+PROMESAS  Y CALLBACKS
+
+es una funcion que revibe como parametro otra funcion. la funcion de callback por lo genaral
+se realiza algunas fuciones con el resiultado devuelto por el callback.
+
+PROMESAS
+Usado para interacciones asincronas 
+se compone de dos aspectos ( resolve, reject) 
+se utiliza la palabra reservada Promise
+
+ARQUITECTURA CLIENTE - SERVIDOR

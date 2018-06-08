@@ -1,0 +1,35 @@
+CONSOLE COMMANDS
+
+crea repositorio
+git init
+
+muestra carpetas ocultas p/ verificar .git => si git se creo correctamente
+ls -la
+
+Asociar cuenta de github/Gitlab/Bitbucket a nuestro programa Gitlab
+git config --global user.name "nombredelacuenta"
+git config --global user.email "emaildelacuenta"
+
+Muestra status muestra directorio del repositorio 
+git status
+
+ROJO (Status working directory - sin seguimiento) 
+
+Agregar archivos
+git add "archivo" // * para agregar todos 
+
+VERDE (Status archivos agregados - con seguimiento)
+
+Hacer commit a los archivos
+git commit -m "Comentario/Mensaje"
+
+Haces un repositorio en Gitlab github Bitbucket 
+
+Asociamos con el repositorio local - remoto
+git remote add origin https://github.com/iluisbravo/clase_git.git
+
+Subir los cambios al repositorio remoto
+git push origin master
+
+Descargar los cambios remotos
+git pull origin master

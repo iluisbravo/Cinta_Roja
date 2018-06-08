@@ -1,0 +1,30 @@
+HACER CARPETAS 
+mkdir "nombreCarpeta"
+
+HACER ARCHIVOS
+touch "nombreArchivo.extension"
+
+ABRIR DIRECTORIO
+ls
+
+BORRAR CONSOLE
+clear
+
+IMPRIMIR ARCHIVOS
+cat "nombreArchivo.extension"
+
+MOVERTE ENTRE CARPETAS
+cd "nombreArchivo.extension"
+cd .. //Regrsamos a carpeta anterior 
+
+
+////NODE///////
+
+EJECUTAR NODE ARCHIVOS
+node "nombreArchivo.extension"
+
+
+///////VISUAL STUDIO/////
+ctrl + K + C // COMENTAR CODIGO 
+ctrl + K + U // DESCOMENTAR
+

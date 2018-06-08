@@ -1,0 +1,10 @@
+CLASE CINTA ROJA 30-MAYO-2018
+
+CLASE
+Molde de objetos, contiene constructur, atributos y metodos
+
+CONSTRUCTOR 
+Cada que se cree un objeto se manda a llamar el metodo CONSTRUCTOR, cuando se genera la instancia.
+
+HERENCIA
+Es una clase nueva que se crea de una clase existente comparten atributos y comportamientos (metodos)

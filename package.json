@@ -1,0 +1,15 @@
+{
+  "name": "cintaroja",
+  "version": "1.0.0",
+  "description": "librerias de dependencias ",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Bravo",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.4.6",
+    "request": "^2.87.0"
+  }
+}
