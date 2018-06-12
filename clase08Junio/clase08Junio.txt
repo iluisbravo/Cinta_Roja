@@ -1,0 +1,15 @@
+MVC
+
+MODELO:
+Capa de negocios, se encarga de cuidar los datos y conectarse con 
+la base de datos y mantener la integridad
+
+VISTA:
+Muestra la informacion al usuario, html y css
+
+CONTROLADOR:
+Ordenes del usuario se encarga de solicitar cosas al servidor
+
+
+Descargamos la libreria de express.js
+descargamos la libreria de nodemon.js para no estar reinicianod el server con los cambios
