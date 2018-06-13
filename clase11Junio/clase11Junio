@@ -1,0 +1,36 @@
+BASE DE DATOS
+
+Propiedades:
+independencias logicay fisica de datos 
+redundancia minima
+acceso concurrente por parte de multiples usuarios
+integridad de datos 
+consultas complejas y optimizadas
+seguridad acceso y auditoria 
+respaldo y recuperacion 
+
+SGBD Sistema de Gestion de Base de Datos 
+Softwares muy especificos dedicados a servidr de interfaz entre la base de datos y el usuario, 
+se compone de un lenguaje de definicion de datos, de un lenguaje de manipulacion de datos y de 
+un lenguaje de consulta.
+
+SQLite 
+Oracle 
+PostgreSQL
+MySql
+SQL server
+
+Tipos de base de datos NoSQL:
+
+Redis
+Cassandra 
+riak
+Neo 4j
+Mongo
+membase
+cunchDBrelax
+
+
+admin-prueba
+myapp123
+
