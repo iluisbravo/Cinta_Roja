@@ -1,0 +1,16 @@
+{
+  "name": "clase12junio",
+  "version": "1.0.0",
+  "description": "npm papeleria",
+  "main": "ejercicioRESTFULLAPIPapeleria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Bravo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5"
+  }
+}

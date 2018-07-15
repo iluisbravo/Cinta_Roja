@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@google/maps": "^0.4.6",
+    "bootbot": "^1.0.15",
     "request": "^2.87.0"
   }
 }

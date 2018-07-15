@@ -1,0 +1,17 @@
+CHATBOTS
+
+Ventajas:
+-No son aplicacion que se tengan que descargar 
+-La experiencia del usuario es mas agradable 
+-Asesorias y atencion al cliente mas eficaz y rapida
+-Reduce ostos en la atencion del cliente
+-Brindan atencion 24/7
+
+
+Desventajas:
+-los bots solo atienden tareas sencillas
+-para establecer una conversacion se deben usar oraciones muy comprensibles
+-muchas plataformas aun no soportan chatbots
+
+token bots facebook
+EAAYGwvPKNOoBAP4RDGVvshImTQO85ZC0NPxDWsx03hvfgT4tKZCbZCRJ3rrKwUzZBeCcg52EBWK1O53FbqfuoVGVbhLDM3VZCnkqnhI0qNKMSCPVQCjoCPTrZCRZCrAdy9ahsC7fIavb9Q6DOZAppcI2ZAtcaYOwgIAaFEPqYExmNqwZDZD

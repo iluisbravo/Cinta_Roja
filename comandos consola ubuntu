@@ -1,6 +1,9 @@
 HACER CARPETAS 
 mkdir "nombreCarpeta"
 
+ENTRAR A ARCHIVOS PARA LEER Y EDITAR
+CAT nombre_archivo ctrl-x guarda y enter
+
 HACER ARCHIVOS
 touch "nombreArchivo.extension"
 
@@ -27,4 +30,30 @@ node "nombreArchivo.extension"
 ///////VISUAL STUDIO/////
 ctrl + K + C // COMENTAR CODIGO 
 ctrl + K + U // DESCOMENTAR
+
+
+
+//HEROKU//
+heroku login
+
+heroku create nombredominio
+
+gir remote v
+
+git push heroku master
+
+heroku open
+
+
+
+
+//REACT//
+//para instalar React
+sudo npm install -g create-react-app
+
+//para crear app en React
+npx create-react-app "nombreApp"
+
+//Arrancar React dentro de la carpeta de la app
+npm start
 
